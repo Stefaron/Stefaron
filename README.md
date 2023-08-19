@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 Perkenalkan nama saya **Stefaron Budhi Santosa**.\
 
-Saya seorang **** di [LinkedIn](https://www.linkedin.com/in/stefaron-budhi/).\
+Saya seorang **Student di Bangkit Academy** [LinkedIn](https://www.linkedin.com/in/stefaron-budhi/).\
 
 <p align="left">
-<a href="https://github.com/Stefaron">
+<a href="https://github.com/Stefaron/">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dimasmds&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dimasmds&layout=compact&langs_count=8&theme=algolia"/>
 </a>
